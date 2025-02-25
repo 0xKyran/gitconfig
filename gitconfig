@@ -1,0 +1,13 @@
+[column]
+  ui = auto
+[tag]
+  sort = version:refname
+[init]
+  defaultBranch = main
+[help]
+  autocorrect = prompt
+[commit]
+  verbose = true
+  autoupdate = true
+[core]
+  excludesfile = ~/.gitignore
